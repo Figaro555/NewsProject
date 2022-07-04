@@ -1,0 +1,63 @@
+{
+  "Comment": "News parser and aggregator",
+  "StartAt": "Extractor",
+  "States": {
+    "Extractor": {
+      "Type": "Parallel",
+      "End": true,
+      "Branches": [
+        {
+          "StartAt": "parameters-editor1",
+          "States": {
+            "parameters-editor1": {
+              "Type": "Pass",
+              "Parameters": {
+                "type": "NYTimes"
+              },
+              "Next": "data-loader1"
+            },
+            "data-loader1": {
+              "Type": "Task",
+              "Resource": "arn:aws:lambda:us-east-1:062261762656:function:WebSiteParser",
+              "End": true
+            }
+          }
+        },
+        {
+          "StartAt": "parameters-editor2",
+          "States": {
+            "parameters-editor2": {
+              "Type": "Pass",
+              "Parameters": {
+                "type": "Guardian"
+              },
+              "Next": "data-loader2"
+            },
+            "data-loader2": {
+              "Type": "Task",
+              "Resource": "arn:aws:lambda:us-east-1:062261762656:function:WebSiteParser",
+              "End": true
+            }
+          }
+        },
+        {
+          "StartAt": "parameters-editor3",
+          "States": {
+            "parameters-editor3": {
+              "Type": "Pass",
+              "Parameters": {
+                "type": "Delfi"
+              },
+              "Next": "data-loader3"
+            },
+            "data-loader3": {
+              "Type": "Task",
+              "Resource": "arn:aws:lambda:us-east-1:062261762656:function:WebSiteParser",
+              "End": true
+            }
+          }
+        }
+      ]
+    }
+  }
+}
