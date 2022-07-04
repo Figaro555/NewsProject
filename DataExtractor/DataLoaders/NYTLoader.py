@@ -1,6 +1,7 @@
+import boto3 as boto3
 import requests
+import boto3
 
-from Config.NYTConfig import NYTkey
 from DataLoaders.NewsLoader import NewsLoader
 
 
@@ -8,7 +9,10 @@ class NYTLoader(NewsLoader):
     country = "USA"
 
     def load_data(self):
-        url = "https://api.nytimes.com/svc/topstories/v2/home.json?api-key=" + NYTkey
+        s3 = boto3.client('s3')
+        response = s3.get_object(Bucket="mbucket111111", Key='NewsProject/Data Extractor/Config/NYTimesConfig.txt')
+        nyt_key = response['Body'].read().decode('UTF-8')
+        url = "https://api.nytimes.com/svc/topstories/v2/home.json?api-key=" + nyt_key
         response = requests.get(url)
         content = response.json()
 
