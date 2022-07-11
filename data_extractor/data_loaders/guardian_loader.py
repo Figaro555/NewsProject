@@ -1,17 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
-from data_loaders.news_loader import NewsLoader
+from data_loaders.news_loader_without_api import NewsLoaderWithoutAPI
 
 
-class GuardianLoader(NewsLoader):
+class GuardianLoader(NewsLoaderWithoutAPI):
     country = "UK"
-
-    def load_data(self):
-        main_page_link = "https://www.theguardian.com/international"
-        article_links = list(set(self.get_article_links(main_page_link)))
-
-        return list(filter(None, [self.get_article_data(link) for link in article_links]))
+    main_page_link = "https://www.theguardian.com/international"
 
     def get_article_links(self, link):
         response = requests.get(link)

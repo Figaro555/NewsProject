@@ -2,17 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 from googletrans import Translator
 
-from data_loaders.news_loader import NewsLoader
+from data_loaders.news_loader_without_api import NewsLoaderWithoutAPI
 
 
-class DelfiLoader(NewsLoader):
+class DelfiLoader(NewsLoaderWithoutAPI):
     country = "LT"
-
-    def load_data(self):
-        main_page_link = "https://www.delfi.lt"
-        article_links = list(set(self.get_article_links(main_page_link)))
-        print(len(article_links))
-        return list(filter(None, [self.get_article_data(link) for link in article_links]))
+    main_page_link = "https://www.delfi.lt"
 
     def get_article_links(self, link):
         response = requests.get(link)

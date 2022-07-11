@@ -7,3 +7,7 @@ class NewsLoader(ABC):
     @abstractmethod
     def load_data(self):
         pass
+
+    @abstractmethod
+    def get_article_data(self, article):
+        pass
