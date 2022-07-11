@@ -1,8 +1,7 @@
-import boto3 as boto3
 import requests
 import boto3
 
-from DataLoaders.NewsLoader import NewsLoader
+from data_loaders.news_loader import NewsLoader
 
 
 class NYTLoader(NewsLoader):

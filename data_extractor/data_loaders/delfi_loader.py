@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from googletrans import Translator
 
-from DataLoaders.NewsLoader import NewsLoader
+from data_loaders.news_loader import NewsLoader
 
 
 class DelfiLoader(NewsLoader):

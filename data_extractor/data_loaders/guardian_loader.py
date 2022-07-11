@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from DataLoaders.NewsLoader import NewsLoader
+from data_loaders.news_loader import NewsLoader
 
 
 class GuardianLoader(NewsLoader):

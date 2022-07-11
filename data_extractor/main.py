@@ -1,5 +1,5 @@
-from LoaderFactory import LoaderFactory
-from DataSavers.S3Saver import S3Saver
+from loader_factory import LoaderFactory
+from data_savers.s3_saver import S3Saver
 from datetime import date
 
 
@@ -12,3 +12,4 @@ def lambda_handler(event, context):
     saver = S3Saver(bucket)
     saver.save_data(data, file_path)
     return {"path": file_path}
+
