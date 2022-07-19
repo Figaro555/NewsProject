@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from googletrans import Translator
 
 from data_loaders.news_loader_without_api import NewsLoaderWithoutAPI
 
@@ -16,7 +15,6 @@ class DelfiLoader(NewsLoaderWithoutAPI):
         return [i.find("a")["href"] for i in links if i.find("a")["href"].startswith("https://www.delfi.lt")]
 
     def get_article_data(self, article_link):
-        translator = Translator()
         response = requests.get(article_link)
         article = BeautifulSoup(response.content, 'html.parser')
 
@@ -24,11 +22,9 @@ class DelfiLoader(NewsLoaderWithoutAPI):
             return {
                 "country": self.country,
                 "date": article.find("meta", attrs={"name": "cXenseParse:recs:publishtime"})["content"],
-                "title": translator.translate(article.find("meta", attrs={"property": "og:title"})["content"],
-                                              src="lt").text,
+                "title": article.find("meta", attrs={"property": "og:title"})["content"],
                 "author": self.get_author(article),
-                "text": translator.translate(self.get_text(article), src="lt").text
-
+                "text": self.get_text(article)
             }
 
         except Exception as _ex:
