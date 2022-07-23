@@ -1,0 +1,2174 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2022-07-18T19:14:48-04:00",
+    "num_results": 35,
+    "results": [
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "How Joe Manchin Left a Global Tax Deal in Limbo",
+            "abstract": "Treasury Secretary Janet L. Yellen’s signature achievement is in jeopardy if the United States cannot ratify the tax agreement that she brokered.",
+            "url": "https://www.nytimes.com/2022/07/18/us/politics/joe-manchin-tax.html",
+            "uri": "nyt://article/5a0529a9-3fb8-5be6-b862-9333b1ddaf6e",
+            "byline": "By Alan Rappeport and Jim Tankersley",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T17:34:22-04:00",
+            "created_date": "2022-07-18T15:40:02-04:00",
+            "published_date": "2022-07-18T15:40:02-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Economy",
+                "United States International Relations",
+                "Tax Shelters",
+                "Federal Taxes (US)",
+                "Corporate Taxes",
+                "Politics and Government",
+                "United States Politics and Government",
+                "Corporations",
+                "Federal Budget (US)"
+            ],
+            "org_facet": [
+                "European Union",
+                "Treasury Department"
+            ],
+            "per_facet": [
+                "Yellen, Janet L",
+                "Manchin, Joe III"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/multimedia/18dc-globaltax01/18dc-globaltax01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Joe Manchin III effectively scuttled the Biden administration’s tax agenda in Congress by saying he could not immediately support a climate, energy and tax package he had previously indicated he could support.",
+                    "copyright": "Pete Marovich for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/multimedia/18dc-globaltax01/18dc-globaltax01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Joe Manchin III effectively scuttled the Biden administration’s tax agenda in Congress by saying he could not immediately support a climate, energy and tax package he had previously indicated he could support.",
+                    "copyright": "Pete Marovich for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/multimedia/18dc-globaltax01/18dc-globaltax01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Joe Manchin III effectively scuttled the Biden administration’s tax agenda in Congress by saying he could not immediately support a climate, energy and tax package he had previously indicated he could support.",
+                    "copyright": "Pete Marovich for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3IQWZwX"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Extreme Heat Puts Life on Hold in Britain, a Land Not Built for It",
+            "abstract": "In a country more accustomed to temperate weather, a brutal heat wave tested Britain’s infrastructure and forced millions to choose between a Stygian commute or a stifling home office.",
+            "url": "https://www.nytimes.com/2022/07/18/world/europe/uk-london-extreme-heat.html",
+            "uri": "nyt://article/e6f37ea5-7bfd-55e1-8227-5514a29ddfc9",
+            "byline": "By Mark Landler",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T18:00:49-04:00",
+            "created_date": "2022-07-18T18:00:49-04:00",
+            "published_date": "2022-07-18T18:00:49-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Heat and Heat Waves",
+                "Transit Systems",
+                "Global Warming",
+                "Infrastructure (Public Works)",
+                "Air Conditioning"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Johnson, Boris",
+                "Charles, Prince of Wales"
+            ],
+            "geo_facet": [
+                "Great Britain",
+                "England",
+                "London (England)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/world/18heat-ledeall1/merlin_210246435_f8b4a571-6cb0-42b2-a03f-fa1cf0de2a9f-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brighton, a seaside town an hour’s train ride from London, was a popular destination on Monday to try to escape the heat.",
+                    "copyright": "Saskia Solomon/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/world/18heat-ledeall1/18heat-ledeall1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brighton, a seaside town an hour’s train ride from London, was a popular destination on Monday to try to escape the heat.",
+                    "copyright": "Saskia Solomon/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/world/18heat-ledeall1/18heat-ledeall1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brighton, a seaside town an hour’s train ride from London, was a popular destination on Monday to try to escape the heat.",
+                    "copyright": "Saskia Solomon/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3B1J2KY"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Why Europe Is Becoming a Heat Wave Hot Spot",
+            "abstract": "This year’s scorching weather is in keeping with a trend. Scientists say a number of factors, including changes in the jet stream, are in play.",
+            "url": "https://www.nytimes.com/2022/07/18/climate/europe-heat-wave-science.html",
+            "uri": "nyt://article/5e03fa16-2ffd-5be3-ab28-afc3e75e14f1",
+            "byline": "By Henry Fountain",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T17:55:27-04:00",
+            "created_date": "2022-07-18T17:53:44-04:00",
+            "published_date": "2022-07-18T17:53:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Heat and Heat Waves",
+                "Weather",
+                "Global Warming"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Europe",
+                "Arctic Regions"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/climate/18cli-whyeurope2/18cli-whyeurope2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wildfires raged in the Losacio area of northwestern Spain on Sunday.",
+                    "copyright": "Emilio Fraile/Europa Press, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/climate/18cli-whyeurope2/18cli-whyeurope2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wildfires raged in the Losacio area of northwestern Spain on Sunday.",
+                    "copyright": "Emilio Fraile/Europa Press, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/climate/18cli-whyeurope2/18cli-whyeurope2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wildfires raged in the Losacio area of northwestern Spain on Sunday.",
+                    "copyright": "Emilio Fraile/Europa Press, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3aQV2Ej"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Plans to Fight Global Warming Face an Obstacle in Paris: Trees",
+            "abstract": "As a new heat wave bakes the French capital and the rest of Europe, critics say that plans to make the city greener have led to the felling of trees essential to combating rising temperatures.",
+            "url": "https://www.nytimes.com/2022/07/18/world/europe/paris-trees-global-warming.html",
+            "uri": "nyt://article/e8731a41-348b-550d-946e-be5e59cb131d",
+            "byline": "By Constant Méheut",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T14:21:09-04:00",
+            "created_date": "2022-07-18T09:07:44-04:00",
+            "published_date": "2022-07-18T09:07:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Trees and Shrubs",
+                "Global Warming",
+                "Weather",
+                "Sustainable Living",
+                "Urban Areas"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Hidalgo, Anne (1959- )"
+            ],
+            "geo_facet": [
+                "France",
+                "Paris (France)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/world/18paris-trees-01/merlin_186657909_8bd9c901-8121-41ca-9497-87772fe6910e-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The lawns surrounding the Eiffel Tower have become the scene of furious protests over plans to cut down trees in the area as part of an effort to build a huge garden.",
+                    "copyright": "Dmitry Kostyukov for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/world/18paris-trees-01/merlin_186657909_8bd9c901-8121-41ca-9497-87772fe6910e-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The lawns surrounding the Eiffel Tower have become the scene of furious protests over plans to cut down trees in the area as part of an effort to build a huge garden.",
+                    "copyright": "Dmitry Kostyukov for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/world/18paris-trees-01/merlin_186657909_8bd9c901-8121-41ca-9497-87772fe6910e-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The lawns surrounding the Eiffel Tower have become the scene of furious protests over plans to cut down trees in the area as part of an effort to build a huge garden.",
+                    "copyright": "Dmitry Kostyukov for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3RSKzce"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Tracking Dangerous Heat in the U.S.",
+            "abstract": "See detailed maps of the latest heat index forecasts in the United States.",
+            "url": "https://www.nytimes.com/interactive/2022/us/heat-wave-map-tracker.html",
+            "uri": "nyt://interactive/28382dd4-511d-527a-898f-0c6d2b139661",
+            "byline": "By Matthew Bloch, Lazaro Gamio, Zach Levitt, Eleanor Lutz and John-Michael Murphy",
+            "item_type": "Interactive",
+            "updated_date": "2022-07-18T16:13:20-04:00",
+            "created_date": "2022-07-12T13:52:36-04:00",
+            "published_date": "2022-07-12T13:52:36-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Heat and Heat Waves",
+                "Weather",
+                "States (US)",
+                "Maps",
+                "Population"
+            ],
+            "org_facet": [
+                "National Weather Service",
+                "National Oceanic and Atmospheric Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/11/us/heat-wave-map-tracker-promo/heat-wave-map-tracker-promo-superJumbo-v34.png",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/11/us/heat-wave-map-tracker-promo/heat-wave-map-tracker-promo-threeByTwoSmallAt2X-v67.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 401,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/11/us/heat-wave-map-tracker-promo/heat-wave-map-tracker-promo-thumbLarge-v34.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3calp8v"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "4 Dead in Indiana Mall Shooting, Officials Say",
+            "abstract": "The attack by a gunman unfolded at the Greenwood Park Mall in Greenwood, Ind., on Sunday before another armed man fatally shot the assailant, city officials said.",
+            "url": "https://www.nytimes.com/2022/07/17/us/greenwood-mall-shooting-indiana.html",
+            "uri": "nyt://article/13dfad2d-5a94-5f1e-ac74-1ab40be3824b",
+            "byline": "By Vimal Patel and Melina Delkic",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T12:55:24-04:00",
+            "created_date": "2022-07-17T20:04:23-04:00",
+            "published_date": "2022-07-17T20:04:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shopping Centers and Malls",
+                "Greenwood, Ind, Mall Shooting (2022)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Indiana",
+                "Greenwood (Ind)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/17/us/17xp-greenwood-mall1/merlin_210216291_8d388a21-58c1-497e-8264-a9d9dc605140-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1390,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two additional people were hospitalized in the shooting, city officials said. The authorities did not indicate a motive for the shooting.",
+                    "copyright": "Lee Klafczynski for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/17/us/17xp-greenwood-mall1/17xp-greenwood-mall1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two additional people were hospitalized in the shooting, city officials said. The authorities did not indicate a motive for the shooting.",
+                    "copyright": "Lee Klafczynski for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/17/us/17xp-greenwood-mall1/17xp-greenwood-mall1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two additional people were hospitalized in the shooting, city officials said. The authorities did not indicate a motive for the shooting.",
+                    "copyright": "Lee Klafczynski for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3uUfFGm"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Covid Rises Across U.S. Amid Muted Warnings and Murky Data",
+            "abstract": "BA.5, a highly transmissible variant, is dominating a surge of new infections. Many health officials say the wave is cause for caution, not alarm.",
+            "url": "https://www.nytimes.com/2022/07/18/us/covid-us-outlook.html",
+            "uri": "nyt://article/cefacb39-7fce-5550-8122-2480ece9aaac",
+            "byline": "By Julie Bosman, Thomas Fuller and Edgar Sandoval",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T16:31:47-04:00",
+            "created_date": "2022-07-18T05:00:16-04:00",
+            "published_date": "2022-07-18T05:00:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Deaths (Fatalities)",
+                "Coronavirus Omicron Variant",
+                "Disease Rates",
+                "Masks"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/17/us/17stateofthevirus-1/merlin_210087000_cb2ce3df-3b4b-455e-9597-87379470eae6-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Downtown Chicago last week as virus cases rose once more.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/17/us/17stateofthevirus-1/merlin_210087000_cb2ce3df-3b4b-455e-9597-87379470eae6-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Downtown Chicago last week as virus cases rose once more.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/17/us/17stateofthevirus-1/17stateofthevirus-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Downtown Chicago last week as virus cases rose once more.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zdw3Ep"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Democrats Navigate Nuanced Views on Abortion Among Black Voters",
+            "abstract": "Faced with a streak of conservatism about abortion among some Black Americans, a vital constituency for President Biden, Democrats are framing the issue as part of a broader civil rights struggle.",
+            "url": "https://www.nytimes.com/2022/07/18/us/politics/abortion-black-voters-democrats-biden.html",
+            "uri": "nyt://article/2741e7d0-fcbf-5c2f-b46b-a72124335183",
+            "byline": "By Zolan Kanno-Youngs",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T17:18:10-04:00",
+            "created_date": "2022-07-18T17:18:10-04:00",
+            "published_date": "2022-07-18T17:18:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Abortion",
+                "United States Politics and Government",
+                "Black People"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Harris, Kamala D"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/14/us/politics/14dc-abortion-3/merlin_189488553_ba18197e-f10a-45d7-b0bb-fa5587a7bcfc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1432,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Rev. Najuma Smith-Pollard and other faith leaders said eliminating abortion rights could be part of a broader movement to restrict individual rights.",
+                    "copyright": "Morgan Lieberman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/14/us/politics/14dc-abortion-3/merlin_189488553_ba18197e-f10a-45d7-b0bb-fa5587a7bcfc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Rev. Najuma Smith-Pollard and other faith leaders said eliminating abortion rights could be part of a broader movement to restrict individual rights.",
+                    "copyright": "Morgan Lieberman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/14/us/politics/14dc-abortion-3/merlin_189488553_ba18197e-f10a-45d7-b0bb-fa5587a7bcfc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Rev. Najuma Smith-Pollard and other faith leaders said eliminating abortion rights could be part of a broader movement to restrict individual rights.",
+                    "copyright": "Morgan Lieberman for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3uZTwXf"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "What Pregnancy and Childbirth Do to the Bodies of Young Girls",
+            "abstract": "An Ohio 10-year-old’s recent abortion has generated fierce debate. Doctors in countries where pregnancy is common in adolescents say the toll of childbirth on young bodies is brutal.",
+            "url": "https://www.nytimes.com/2022/07/18/health/young-girls-pregnancy-childbirth.html",
+            "uri": "nyt://article/99a335dd-9f83-52ad-9aa5-7fd2bd9d1e8f",
+            "byline": "By Stephanie Nolen",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T18:11:52-04:00",
+            "created_date": "2022-07-18T18:11:52-04:00",
+            "published_date": "2022-07-18T18:11:52-04:00",
+            "material_type_facet": "",
+            "kicker": "Global Health",
+            "des_facet": [
+                "Pregnancy and Childbirth",
+                "Fistulas",
+                "Women and Girls",
+                "Abortion",
+                "Teenage Pregnancy",
+                "Bladder",
+                "Teenagers and Adolescence"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/science/18child-pregnancy/18child-pregnancy-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An X-ray of a healthy 10-year-old girl. Doctors who work in countries with underage pregnancies say a critical health issue is that the pelvis of a child is too small to allow passage of even a small fetus.",
+                    "copyright": "Department of Radiology, U.C. San Diego Health"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/science/18child-pregnancy/18child-pregnancy-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An X-ray of a healthy 10-year-old girl. Doctors who work in countries with underage pregnancies say a critical health issue is that the pelvis of a child is too small to allow passage of even a small fetus.",
+                    "copyright": "Department of Radiology, U.C. San Diego Health"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/science/18child-pregnancy/18child-pregnancy-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An X-ray of a healthy 10-year-old girl. Doctors who work in countries with underage pregnancies say a critical health issue is that the pelvis of a child is too small to allow passage of even a small fetus.",
+                    "copyright": "Department of Radiology, U.C. San Diego Health"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OfvBd1"
+        },
+        {
+            "section": "magazine",
+            "subsection": "",
+            "title": "Adrift Between My Parents’ Two Americas",
+            "abstract": "David Treuer’s father, an Austrian immigrant, loved this country. His Native mother, born on a reservation, could never forgive it. Where does that leave him?",
+            "url": "https://www.nytimes.com/2022/07/18/magazine/american-patriotism.html",
+            "uri": "nyt://article/232492a4-c239-57b6-8098-be091f0d6f52",
+            "byline": "By David Treuer",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T16:32:04-04:00",
+            "created_date": "2022-07-18T05:00:18-04:00",
+            "published_date": "2022-07-18T05:00:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Native Americans",
+                "Alzheimer's Disease",
+                "Holocaust and the Nazi Era"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Minnesota"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/24/magazine/24mag-patriotism-05/24mag-patriotism-05-superJumbo-v2.png",
+                    "format": "Super Jumbo",
+                    "height": 900,
+                    "width": 1356,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "From David Treuer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/24/magazine/24mag-patriotism-05/24mag-patriotism-05-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "From David Treuer"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/24/magazine/24mag-patriotism-05/24mag-patriotism-05-thumbLarge-v2.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "From David Treuer"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zcHex3"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Word of Trump Media Deal Is Said to Have Leaked Months in Advance",
+            "abstract": "Federal authorities are investigating a surge in trading that preceded the announcement of a $300 million deal with the former president’s media company.",
+            "url": "https://www.nytimes.com/2022/07/18/business/trump-media-truth-social.html",
+            "uri": "nyt://article/c57683f8-c67b-5ec8-b98e-2d54ea75c4be",
+            "byline": "By Matthew Goldstein",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T17:10:24-04:00",
+            "created_date": "2022-07-18T16:12:05-04:00",
+            "published_date": "2022-07-18T16:12:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Special Purpose Acquisition Companies (SPAC)",
+                "Mergers, Acquisitions and Divestitures",
+                "Insider Trading",
+                "Securities and Commodities Violations"
+            ],
+            "org_facet": [
+                "Digital World Acquisition Corp",
+                "Trump Media & Technology Group",
+                "Truth Social (Social Network)",
+                "Securities and Exchange Commission",
+                "Rocket One Capital"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Orlando, Patrick F",
+                "Garelick, Bruce"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/multimedia/00trumpmedia-1/00trumpmedia-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump’s social media platform could grow in importance as he considers another White House bid.",
+                    "copyright": "Ash Adams for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/multimedia/00trumpmedia-1/00trumpmedia-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump’s social media platform could grow in importance as he considers another White House bid.",
+                    "copyright": "Ash Adams for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/multimedia/00trumpmedia-1/00trumpmedia-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former President Donald J. Trump’s social media platform could grow in importance as he considers another White House bid.",
+                    "copyright": "Ash Adams for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oiK9xX"
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "Claes Oldenburg Dies at 93; Pop Artist Made the Everyday Monumental",
+            "abstract": "Taking ordinary objects like hamburgers and household items, he sculpted them in unfamiliar, often imposing dimensions — what he called his “Colossal Monuments.”",
+            "url": "https://www.nytimes.com/2022/07/18/arts/claes-oldenburg-dead.html",
+            "uri": "nyt://article/4b1b316e-aeb9-583d-8be2-fdeaa6678d82",
+            "byline": "By Martha Schwendener",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T17:23:28-04:00",
+            "created_date": "2022-07-18T12:12:44-04:00",
+            "published_date": "2022-07-18T12:12:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Sculpture",
+                "Art"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Oldenburg, Claes",
+                "van Bruggen, Coosje"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/10/06/obituaries/00Oldenburg4/merlin_24328619_249c6748-056d-4292-ab66-72b2b0636dbf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1500,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Spoonbridge and Cherry” at the Minneapolis Sculpture Garden.",
+                    "copyright": "Ben Garvin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/10/06/obituaries/00Oldenburg4/00Oldenburg4-threeByTwoSmallAt2X-v3.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Spoonbridge and Cherry” at the Minneapolis Sculpture Garden.",
+                    "copyright": "Ben Garvin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/10/06/obituaries/00Oldenburg4/00Oldenburg4-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Spoonbridge and Cherry” at the Minneapolis Sculpture Garden.",
+                    "copyright": "Ben Garvin for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Pjj2if"
+        },
+        {
+            "section": "books",
+            "subsection": "",
+            "title": "Love the Smell of Old Books? This Bookseller Would Like You to Leave.",
+            "abstract": "In his grouchy, funny memoir, “A Factotum in the Book Trade,” Marius Kociejowski writes about what a good bookstore should feel like, famous customers he’s served and more.",
+            "url": "https://www.nytimes.com/2022/07/18/books/review-factotum-book-trade-memoir-marius-kociejowski.html",
+            "uri": "nyt://article/df1cfbef-04c6-5a83-ad91-93a23767d579",
+            "byline": "By Dwight Garner",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T15:33:04-04:00",
+            "created_date": "2022-07-18T12:51:21-04:00",
+            "published_date": "2022-07-18T12:51:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Books and Literature",
+                "Book Trade and Publishing",
+                "A Factotum in the Book Trade (Book)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kociejowski, Marius"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/books/18BOOKKOCIEJOWSKI/18BOOKKOCIEJOWSKI-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/books/18BOOKKOCIEJOWSKI/18BOOKKOCIEJOWSKI-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/books/18BOOKKOCIEJOWSKI/18BOOKKOCIEJOWSKI-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3aKhijh"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Putin Thinks He’s Winning",
+            "abstract": "And his plans go far beyond Ukraine.",
+            "url": "https://www.nytimes.com/2022/07/18/opinion/putin-russia-ukraine-winning.html",
+            "uri": "nyt://article/34fc2be0-6799-5dbb-ad8b-972f2256cc38",
+            "byline": "By Tatiana Stanovaya",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T18:37:24-04:00",
+            "created_date": "2022-07-18T01:00:06-04:00",
+            "published_date": "2022-07-18T01:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Politics and Government",
+                "Russian Invasion of Ukraine (2022)",
+                "Propaganda"
+            ],
+            "org_facet": [
+                "North Atlantic Treaty Organization"
+            ],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/opinion/18stranovaya_1/18stranovaya_1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1146,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sefa Karacan/Anadolu Agency, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/opinion/18stranovaya_1/18stranovaya_1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sefa Karacan/Anadolu Agency, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/opinion/18stranovaya_1/18stranovaya_1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sefa Karacan/Anadolu Agency, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3cnfxss"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "I Work for Midwestern Democrats, and I Know How to Win Back Voters From the G.O.P.",
+            "abstract": "Stop letting Republicans own the issues of outsourcing and trade. ",
+            "url": "https://www.nytimes.com/2022/07/18/opinion/democrats-jobs-outsourcing.html",
+            "uri": "nyt://article/0636fdc2-5120-5696-9092-06072fe3c2d6",
+            "byline": "By Brian Stryker",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T15:40:34-04:00",
+            "created_date": "2022-07-18T05:00:14-04:00",
+            "published_date": "2022-07-18T05:00:14-04:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "United States Economy",
+                "Labor and Jobs",
+                "Supply Chain",
+                "International Trade and World Market",
+                "Tax Cuts and Jobs Act (2017)",
+                "United States Politics and Government",
+                "Outsourcing",
+                "Inflation (Economics)",
+                "Factories and Manufacturing",
+                "American Rescue Plan (2021)"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Obama, Barack",
+                "Ryan, Timothy J (1973- )",
+                "Trump, Donald J",
+                "Whitmer, Gretchen"
+            ],
+            "geo_facet": [
+                "United States",
+                "Michigan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18stryker1/18stryker1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2047,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18stryker1/18stryker1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18stryker1/18stryker1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3yPEuEt"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Dear Liberals: Come On Down!",
+            "abstract": "Railing on social media from your blue state won’t change a thing down here.",
+            "url": "https://www.nytimes.com/2022/07/18/opinion/american-south-democrats.html",
+            "uri": "nyt://article/cf9e7053-ac13-5865-af3c-2aaa732da0bd",
+            "byline": "By Margaret Renkl",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T12:26:14-04:00",
+            "created_date": "2022-07-18T05:00:04-04:00",
+            "published_date": "2022-07-18T05:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Liberalism (US Politics)",
+                "United States Economy"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Southern States (US)",
+                "Tennessee",
+                "Nashville (Tenn)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18renkl-1/18renkl-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Aaron Hardin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18renkl-1/18renkl-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Aaron Hardin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18renkl-1/18renkl-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Aaron Hardin"
+                }
+            ],
+            "short_url": "https://nyti.ms/3oct0WY"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "I Went to the State Where the First Big Fight Over Abortion Is On. Here’s What I Saw.",
+            "abstract": "Kansas stands as the first big post-Roe political test for abortion. It’s an intense, complicated fight, with the odds stacked against reproductive-rights supporters.",
+            "url": "https://www.nytimes.com/2022/07/18/opinion/kansas-abortion-amendment.html",
+            "uri": "nyt://article/3f7c6814-fa61-5c02-85c1-2e49c3d6238d",
+            "byline": "By Michelle Cottle",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T16:43:23-04:00",
+            "created_date": "2022-07-18T01:00:12-04:00",
+            "published_date": "2022-07-18T01:00:12-04:00",
+            "material_type_facet": "",
+            "kicker": "Michelle Cottle",
+            "des_facet": [
+                "Abortion",
+                "Birth Control and Family Planning",
+                "State Legislatures",
+                "Constitutional Amendments",
+                "Referendums",
+                "Volunteers and Community Service",
+                "Women and Girls",
+                "Primaries and Caucuses",
+                "Law and Legislation",
+                "States (US)"
+            ],
+            "org_facet": [
+                "Republican Party",
+                "Democratic Party"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Kansas",
+                "Johnson County (Kan)",
+                "Kansas City (Kan)",
+                "Wyandotte County (Kan)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/15/opinion/15cottle1a/15cottle1a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Shawn Brackbill for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/15/opinion/15cottle1a/15cottle1a-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Shawn Brackbill for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/15/opinion/15cottle1a/15cottle1a-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Shawn Brackbill for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3AZfsWi"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "There’s a Better Way to Measure Economic Inequality",
+            "abstract": "Differences in wealth or income are not good gauges.",
+            "url": "https://www.nytimes.com/2022/07/18/opinion/economic-inequality-spending-power.html",
+            "uri": "nyt://article/7b28b37e-28d7-5f8e-b75a-4118e6c7f970",
+            "byline": "By Peter Coy",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T15:30:05-04:00",
+            "created_date": "2022-07-18T15:30:05-04:00",
+            "published_date": "2022-07-18T15:30:05-04:00",
+            "material_type_facet": "",
+            "kicker": "peter coy",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "Income Inequality",
+                "Economics (Theory and Philosophy)",
+                "United States Economy",
+                "Income"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Auerbach, Alan J",
+                "Kotlikoff, Laurence J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18coy-image/18coy-image-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by the New York Times; images by CSA Images via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18coy-image/18coy-image-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by the New York Times; images by CSA Images via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18coy-image/18coy-image-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by the New York Times; images by CSA Images via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zfKIiE"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Don’t Drag Our Most Basic Rights Into the Culture Wars",
+            "abstract": "Democrats should reclaim the cause of civil liberties as Republicans move to restrict them.",
+            "url": "https://www.nytimes.com/2022/07/18/opinion/democrats-civil-liberties-culture-wars.html",
+            "uri": "nyt://article/c8ef73d7-1e51-581e-97e9-fee9cbb67a1b",
+            "byline": "By Jay Caspian Kang",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T15:00:05-04:00",
+            "created_date": "2022-07-18T15:00:05-04:00",
+            "published_date": "2022-07-18T15:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "Jay Caspian Kang",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "Surveillance of Citizens by Government",
+                "Freedom of Speech and Expression",
+                "Crime and Criminals",
+                "Civil Rights and Liberties"
+            ],
+            "org_facet": [
+                "Democratic Party"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "San Francisco (Calif)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18kang-image/18kang-image-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alberto Miranda"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18kang-image/18kang-image-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alberto Miranda"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/opinion/18kang-image/18kang-image-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alberto Miranda"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zgg9JJ"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Sometimes the Earth Makes the Rest of the Universe Look Very Good",
+            "abstract": "The photos emanating from the Webb telescope make it possible to forget politics for a minute.",
+            "url": "https://www.nytimes.com/2022/07/18/opinion/trump-biden-webb-space.html",
+            "uri": "nyt://article/74501208-22c3-572d-bfa9-4d87fe4af745",
+            "byline": "By Gail Collins and Bret Stephens",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T05:00:15-04:00",
+            "created_date": "2022-07-18T05:00:15-04:00",
+            "published_date": "2022-07-18T05:00:15-04:00",
+            "material_type_facet": "",
+            "kicker": "The Conversation",
+            "des_facet": [
+                "United States International Relations",
+                "United States Economy",
+                "Immigration and Emigration",
+                "Primaries and Caucuses",
+                "Illegal Immigration",
+                "Midterm Elections (2022)",
+                "Russian Invasion of Ukraine (2022)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/opinion/18conversation-1/merlin_209938089_b21e0c93-7634-4dbb-b6fb-ddf4dee22c66-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1907,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The name of this planetary nebula, NGC 3132, doesn’t quite do it justice.",
+                    "copyright": "NASA, ESA, CSA and STScI"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/opinion/18conversation-1/18conversation-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The name of this planetary nebula, NGC 3132, doesn’t quite do it justice.",
+                    "copyright": "NASA, ESA, CSA and STScI"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/opinion/18conversation-1/18conversation-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The name of this planetary nebula, NGC 3132, doesn’t quite do it justice.",
+                    "copyright": "NASA, ESA, CSA and STScI"
+                }
+            ],
+            "short_url": "https://nyti.ms/3yQD2lk"
+        },
+        {
+            "section": "opinion",
+            "subsection": "letters",
+            "title": "Biden’s Fist Bump With the Saudi Prince",
+            "abstract": "President Biden’s visit to Saudi Arabia; Merrick Garland and Donald Trump; the erased Secret Service texts; political changes; Columbia unranked. ",
+            "url": "https://www.nytimes.com/2022/07/18/opinion/letters/biden-saudi-prince.html",
+            "uri": "nyt://article/c0963a4a-d7d8-56f3-b171-619c5c33c128",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T15:04:12-04:00",
+            "created_date": "2022-07-18T15:04:12-04:00",
+            "published_date": "2022-07-18T15:04:12-04:00",
+            "material_type_facet": "",
+            "kicker": "letters",
+            "des_facet": [
+                "United States International Relations",
+                "United States Politics and Government",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Colleges and Universities"
+            ],
+            "org_facet": [
+                "Republican Party",
+                "Secret Service",
+                "House Select Committee to Investigate the January 6th Attack",
+                "Columbia University"
+            ],
+            "per_facet": [
+                "Mohammed bin Salman (1985- )",
+                "Biden, Joseph R Jr",
+                "Khashoggi, Jamal",
+                "Garland, Merrick B",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Saudi Arabia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/16/reader-center/16prexy-saudi-A1/merlin_210096006_7bfcaf59-3224-4ca4-bd35-ff337de5738d-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1596,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Bandar Aljaloud/Saudi Royal Palace"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/16/reader-center/16prexy-saudi-A1/merlin_210096006_7bfcaf59-3224-4ca4-bd35-ff337de5738d-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Bandar Aljaloud/Saudi Royal Palace"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/16/reader-center/16prexy-saudi-A1/merlin_210096006_7bfcaf59-3224-4ca4-bd35-ff337de5738d-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Bandar Aljaloud/Saudi Royal Palace"
+                }
+            ],
+            "short_url": "https://nyti.ms/3aRizFe"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Your Monday Evening Briefing",
+            "abstract": "Here’s what you need to know at the end of the day.",
+            "url": "https://www.nytimes.com/2022/07/18/briefing/heat-wave-climate-change-baseball.html",
+            "uri": "nyt://article/ff5f6a2f-00fb-5e5d-b22f-1f20282f9c82",
+            "byline": "By Remy Tumin",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T18:16:45-04:00",
+            "created_date": "2022-07-18T18:13:58-04:00",
+            "published_date": "2022-07-18T18:13:58-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/multimedia/18evening-briefing-nl-HEAT/18heat-HP2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The guards at Buckingham Palace needed to stay hydrated today.",
+                    "copyright": "Matt Dunham/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/multimedia/18evening-briefing-nl-HEAT/18heat-HP2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The guards at Buckingham Palace needed to stay hydrated today.",
+                    "copyright": "Matt Dunham/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/multimedia/18evening-briefing-nl-HEAT/18heat-HP2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The guards at Buckingham Palace needed to stay hydrated today.",
+                    "copyright": "Matt Dunham/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3coxfft"
+        },
+        {
+            "section": "dining",
+            "subsection": "",
+            "title": "Summery Marinated Vegetables",
+            "abstract": "Grilled and raw vegetables shine when they soak in deliciously seasoned oils and vinegars.",
+            "url": "https://www.nytimes.com/2022/07/14/dining/summery-marinated-vegetables.html",
+            "uri": "nyt://article/e744e5ea-c05a-53ab-ad8f-4b4a2bd04474",
+            "byline": "By Tejal Rao",
+            "item_type": "Article",
+            "updated_date": "2022-07-14T13:00:10-04:00",
+            "created_date": "2022-07-14T13:00:10-04:00",
+            "published_date": "2022-07-14T13:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cooking and Cookbooks",
+                "Content Type: Service",
+                "Recipes"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/14/dining/hm-grilled-eggplant/hm-grilled-eggplant-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1359,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Weinberg for The New York Times. Food Styling by Barrett Washburne."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/14/dining/hm-grilled-eggplant/hm-grilled-eggplant-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Weinberg for The New York Times. Food Styling by Barrett Washburne."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/14/dining/hm-grilled-eggplant/hm-grilled-eggplant-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Weinberg for The New York Times. Food Styling by Barrett Washburne."
+                }
+            ],
+            "short_url": "https://nyti.ms/3c8MjO1"
+        },
+        {
+            "section": "podcasts",
+            "subsection": "the-daily",
+            "title": "When Biden Met M.B.S.",
+            "abstract": "What did the encounter tell us about relations between the U.S. and Saudi Arabia?",
+            "url": "https://www.nytimes.com/2022/07/18/podcasts/the-daily/joe-biden-mohammed-bin-salman-saudi-arabia.html",
+            "uri": "nyt://article/d0a9a958-ccb2-5918-a963-883e4b9e1386",
+            "byline": "By Sabrina Tavernise, Rachelle Bonja, Eric Krupke, Sydney Harper, Anita Badejo, Lisa Chow, Michael Simon Johnson, Marion Lozano, Rowan Niemisto and Chris Wood",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T14:17:46-04:00",
+            "created_date": "2022-07-18T06:00:08-04:00",
+            "published_date": "2022-07-18T06:00:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "Politics and Government",
+                "United States Politics and Government",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Mohammed bin Salman (1985- )",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Saudi Arabia",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/podcasts/18daily-1/merlin_210092901_8dd810df-7a4e-4241-9ddd-3645357c4654-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden said that he had been “straightforward and direct” with Crown Prince Mohammed bin Salman during a meeting in Jeddah, Saudi Arabia, this past week.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/podcasts/18daily-1/merlin_210092901_8dd810df-7a4e-4241-9ddd-3645357c4654-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden said that he had been “straightforward and direct” with Crown Prince Mohammed bin Salman during a meeting in Jeddah, Saudi Arabia, this past week.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/podcasts/18daily-1/merlin_210092901_8dd810df-7a4e-4241-9ddd-3645357c4654-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Biden said that he had been “straightforward and direct” with Crown Prince Mohammed bin Salman during a meeting in Jeddah, Saudi Arabia, this past week.",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3O911C0"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "What Will Post-Roe Medical Care Look Like? A Times Event.",
+            "abstract": "The Opinion podcast host Lulu Garcia-Navarro explores the future of reproductive health care in a virtual event on July 21.",
+            "url": "https://www.nytimes.com/2022/07/11/opinion/abortion-roe-health-care-event.html",
+            "uri": "nyt://article/12b87dfe-4c03-538b-8ef5-44cde5a6e106",
+            "byline": "By The New York Times",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T17:23:25-04:00",
+            "created_date": "2022-07-11T23:45:59-04:00",
+            "published_date": "2022-07-11T23:45:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Abortion",
+                "Dobbs v Jackson Women's Health Organization (Supreme Court Decision)",
+                "Pregnancy and Childbirth",
+                "Medicine and Health",
+                "internal-open-access"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/11/opinion/11Abortion-Event-1/merlin_209434698_c3460ddf-1048-44a0-8b23-fa8ebc9ccf7f-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Cristobal Herrera-Ulashkevich/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/11/opinion/11Abortion-Event-1/merlin_209434698_c3460ddf-1048-44a0-8b23-fa8ebc9ccf7f-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Cristobal Herrera-Ulashkevich/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/11/opinion/11Abortion-Event-1/11Abortion-Event-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Cristobal Herrera-Ulashkevich/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3yAc819"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "The Unraveling of an Award-Winning Documentary",
+            "abstract": "The director of “Sabaya,” about Yazidi women who had been sexually enslaved by ISIS, says that he wasn’t present for a key scene and that he substituted footage.",
+            "url": "https://www.nytimes.com/2022/07/18/movies/yazidi-documentary-sabaya.html",
+            "uri": "nyt://article/47edbe1e-ece1-5773-a594-65f2300ec754",
+            "byline": "By Jane Arraf",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T11:13:59-04:00",
+            "created_date": "2022-07-18T11:11:25-04:00",
+            "published_date": "2022-07-18T11:11:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sundance Film Festival (Park City, Utah)",
+                "Yazidi (Religious Sect)",
+                "Documentary Films and Programs",
+                "Human Rights and Human Rights Violations",
+                "Sabaya (Movie)"
+            ],
+            "org_facet": [
+                "Islamic State in Iraq and Syria (ISIS)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Iraq",
+                "Syria",
+                "Sweden"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/arts/15yazidi-doc1/merlin_191140908_a8afc8a1-8b6c-4f2a-bd22-84e85a8f2e4a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from “Sabaya,” directed by Hogir Hirori, about Yazidi women freed from a detention camp for families of ISIS fighters.",
+                    "copyright": "MTV Documentary Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/arts/15yazidi-doc1/15yazidi-doc1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from “Sabaya,” directed by Hogir Hirori, about Yazidi women freed from a detention camp for families of ISIS fighters.",
+                    "copyright": "MTV Documentary Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/arts/15yazidi-doc1/15yazidi-doc1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from “Sabaya,” directed by Hogir Hirori, about Yazidi women freed from a detention camp for families of ISIS fighters.",
+                    "copyright": "MTV Documentary Films"
+                }
+            ],
+            "short_url": "https://nyti.ms/3PzQiBM"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "For Monkeypox Patients, Excruciating Symptoms and a Struggle for Care",
+            "abstract": "As New York City and the federal government strain to supply enough vaccines, patients face a private battle to find treatment and relief from serious symptoms.",
+            "url": "https://www.nytimes.com/2022/07/18/nyregion/new-york-monkeypox-vaccine.html",
+            "uri": "nyt://article/407fe6b9-ea33-5aeb-8395-17ca7316322a",
+            "byline": "By Sharon Otterman",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T09:53:32-04:00",
+            "created_date": "2022-07-18T03:00:10-04:00",
+            "published_date": "2022-07-18T03:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Monkeypox",
+                "Hospitals",
+                "Sexually Transmitted Diseases",
+                "Homosexuality and Bisexuality"
+            ],
+            "org_facet": [
+                "Health and Mental Hygiene Department (NYC)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/nyregion/18ny-monkeypox2/merlin_210146208_68ec0d11-251d-412e-bc80-8d1e65bb02d1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gabriel Morales faced terrible pain after contracting the monkeypox virus but had trouble finding treatment.",
+                    "copyright": "Amir Hamja for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/nyregion/18ny-monkeypox2/18ny-monkeypox2-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gabriel Morales faced terrible pain after contracting the monkeypox virus but had trouble finding treatment.",
+                    "copyright": "Amir Hamja for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/nyregion/18ny-monkeypox2/18ny-monkeypox2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gabriel Morales faced terrible pain after contracting the monkeypox virus but had trouble finding treatment.",
+                    "copyright": "Amir Hamja for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3RFomya"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "The Secret to an Elephant’s Trunk Is Skin Deep",
+            "abstract": "The folds on an elephant’s facial appendage aren’t just for show.",
+            "url": "https://www.nytimes.com/2022/07/18/science/elephant-trunks-skin.html",
+            "uri": "nyt://article/4bebe383-9df0-5299-a940-63f58dab06dd",
+            "byline": "By Richard Sima",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T17:05:06-04:00",
+            "created_date": "2022-07-18T15:00:08-04:00",
+            "published_date": "2022-07-18T15:00:08-04:00",
+            "material_type_facet": "",
+            "kicker": "Trilobites",
+            "des_facet": [
+                "your-feed-science",
+                "Animal Behavior",
+                "Elephants",
+                "Research",
+                "Robots and Robotics"
+            ],
+            "org_facet": [
+                "Zoo Atlanta"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/science/18tb-elephant-trunks/18tb-elephant-trunks-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Andrew Schulz and Adam Thompson/Zoo Atlanta"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/science/18tb-elephant-trunks/18tb-elephant-trunks-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Andrew Schulz and Adam Thompson/Zoo Atlanta"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/19/science/18tb-elephant-trunks/18tb-elephant-trunks-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Andrew Schulz and Adam Thompson/Zoo Atlanta"
+                }
+            ],
+            "short_url": "https://nyti.ms/3aOUHC6"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Georgia Congressman Subpoenaed in Trump Inquiry",
+            "abstract": "Representative Jody Hice has been one of the most vocal proponents of false claims that Donald J. Trump won the 2020 presidential election.",
+            "url": "https://www.nytimes.com/2022/07/18/us/jody-hice-subpoena-trump-georgia.html",
+            "uri": "nyt://article/8e76bbf6-ccdb-53b1-85a4-3401834ac6f2",
+            "byline": "By Richard Fausset and Danny Hakim",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T17:12:24-04:00",
+            "created_date": "2022-07-18T17:12:24-04:00",
+            "published_date": "2022-07-18T17:12:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Presidential Election of 2020"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Hice, Jody (1960- )",
+                "Raffensperger, Brad",
+                "Trump, Donald J",
+                "Willis, Fani T"
+            ],
+            "geo_facet": [
+                "Georgia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/us/18georgia-hice01/merlin_204565092_5b6c8d01-5b83-4706-b640-f3b19e633fbe-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Jody Hice has been a stalwart ally of Donald J. Trump and led a January 2021 challenge in the House of Representatives to the certification of Georgia’s electors.",
+                    "copyright": "Audra Melton for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/us/18georgia-hice01/18georgia-hice01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Jody Hice has been a stalwart ally of Donald J. Trump and led a January 2021 challenge in the House of Representatives to the certification of Georgia’s electors.",
+                    "copyright": "Audra Melton for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/us/18georgia-hice01/18georgia-hice01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Jody Hice has been a stalwart ally of Donald J. Trump and led a January 2021 challenge in the House of Representatives to the certification of Georgia’s electors.",
+                    "copyright": "Audra Melton for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3PCPuMl"
+        },
+        {
+            "section": "well",
+            "subsection": "live",
+            "title": "A Debilitating Illness, Often Ignored",
+            "abstract": "Nearly one in 10 women experience the chronic pain of endometriosis, but for many, the symptoms are dismissed. Why is this still happening?",
+            "url": "https://www.nytimes.com/2022/07/18/well/live/endometriosis-symptoms-treatment.html",
+            "uri": "nyt://article/2ec7be51-371d-53c6-b6c9-cd15c3697c8b",
+            "byline": "By Dani Blum",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T11:17:20-04:00",
+            "created_date": "2022-07-18T05:00:04-04:00",
+            "published_date": "2022-07-18T05:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Endometriosis",
+                "Menstruation",
+                "Women and Girls"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/17/well/17well-endometriosis/17well-endometriosis-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1166,
+                    "width": 1750,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kim Ryu"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/17/well/17well-endometriosis/17well-endometriosis-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kim Ryu"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/17/well/17well-endometriosis/17well-endometriosis-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kim Ryu"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ze7GXp"
+        },
+        {
+            "section": "well",
+            "subsection": "",
+            "title": "How to Keep Pets Cool and Safe During a Heat Wave",
+            "abstract": "Extreme temperatures pose particular dangers to furry friends.",
+            "url": "https://www.nytimes.com/article/pets-heat-safety.html",
+            "uri": "nyt://article/d1bc2a5e-eae4-5f0e-818e-e8df84039393",
+            "byline": "By Dani Blum",
+            "item_type": "Article",
+            "updated_date": "2022-07-15T15:03:32-04:00",
+            "created_date": "2022-07-15T15:03:32-04:00",
+            "published_date": "2022-07-15T15:03:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Dogs",
+                "Content Type: Service",
+                "Cats",
+                "Weather",
+                "Pets"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/15/well/WELL-PETS-HEAT1/WELL-PETS-HEAT1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/15/well/WELL-PETS-HEAT1/WELL-PETS-HEAT1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/15/well/WELL-PETS-HEAT1/WELL-PETS-HEAT1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3cieslY"
+        },
+        {
+            "section": "well",
+            "subsection": "mind",
+            "title": "A Psychedelic Renaissance at the V.A.",
+            "abstract": "Four Veterans Affairs clinicians, frustrated with existing treatments for addiction and PTSD, have turned to drugs the government still deems illegal.",
+            "url": "https://www.nytimes.com/2022/06/24/well/mind/psychedelics-veterans-affairs.html",
+            "uri": "nyt://article/28da7003-3d56-50fa-be33-d8e1015e6c96",
+            "byline": "By Ernesto Londoño",
+            "item_type": "Article",
+            "updated_date": "2022-06-27T16:57:54-04:00",
+            "created_date": "2022-06-24T05:00:23-04:00",
+            "published_date": "2022-06-24T05:00:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Defense and Military Forces",
+                "Veterans",
+                "Psychedelic and Hallucinogenic Drugs",
+                "Drug Abuse and Traffic",
+                "Ecstasy (Drug)",
+                "Addiction (Psychology)",
+                "Mental Health and Disorders",
+                "Methamphetamines",
+                "Psilocybin Mushrooms"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/06/28/well/21Well-Psychedelic-Therapy/21Well-Psychedelic-Therapy-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1166,
+                    "width": 1750,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mike McQuade"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/06/28/well/21Well-Psychedelic-Therapy/21Well-Psychedelic-Therapy-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mike McQuade"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/06/28/well/21Well-Psychedelic-Therapy/21Well-Psychedelic-Therapy-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mike McQuade"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ydOybs"
+        },
+        {
+            "section": "well",
+            "subsection": "",
+            "title": "Meditations for Uncertain Times",
+            "abstract": "We’ve created a week’s worth of five-minute meditations to ease your stress and calm your mind.",
+            "url": "https://www.nytimes.com/interactive/2022/03/30/well/guided-meditations.html",
+            "uri": "nyt://interactive/4567e1f0-89f9-51c0-918b-07e929c8f656",
+            "byline": "By Tara Parker-Pope",
+            "item_type": "Interactive",
+            "updated_date": "2022-04-01T13:36:31-04:00",
+            "created_date": "2022-03-30T15:50:07-04:00",
+            "published_date": "2022-03-30T15:50:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Meditation",
+                "Anxiety and Stress",
+                "Mental Health and Disorders",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/30/well/meditations-for-uncertain-times-1648577590196/meditations-for-uncertain-times-1648577590196-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Merijn Hos"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/30/well/meditations-for-uncertain-times-1648577590196/meditations-for-uncertain-times-1648577590196-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Merijn Hos"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/30/well/meditations-for-uncertain-times-1648577590196/meditations-for-uncertain-times-1648577590196-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Merijn Hos"
+                }
+            ],
+            "short_url": "https://nyti.ms/3LtuQw5"
+        },
+        {
+            "section": "well",
+            "subsection": "live",
+            "title": "Largest Study to Date Shows How Covid Vaccines Affect Periods",
+            "abstract": "For some, a side effect of getting vaccinated was a change in menstrual cycles — but experts say there is no cause for alarm.",
+            "url": "https://www.nytimes.com/2022/07/15/well/live/covid-vaccines-periods.html",
+            "uri": "nyt://article/6a96518c-4a38-51a1-8c28-f5adc0830c0f",
+            "byline": "By Knvul Sheikh",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T12:26:29-04:00",
+            "created_date": "2022-07-15T16:21:18-04:00",
+            "published_date": "2022-07-15T16:21:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Menstruation",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Clinical Trials",
+                "Content Type: Service",
+                "Research",
+                "Hormones",
+                "Menopause",
+                "Immune System"
+            ],
+            "org_facet": [
+                "Science Advances (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/15/well/15WELL-PERIODS-VACCINE1/merlin_187714749_17875006-ce24-4d6e-b660-6297f1e46d10-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jon Cherry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/15/well/15WELL-PERIODS-VACCINE1/merlin_187714749_17875006-ce24-4d6e-b660-6297f1e46d10-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jon Cherry for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/15/well/15WELL-PERIODS-VACCINE1/15WELL-PERIODS-VACCINE1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jon Cherry for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3uQS1um"
+        },
+        {
+            "section": "t-magazine",
+            "subsection": "",
+            "title": "On Gum Drop Grapes and Other Fruits Designed to Taste Like Candy",
+            "abstract": "Advances in plant breeding and indoor growing have led to produce that promises to be perfectly sweet.",
+            "url": "https://www.nytimes.com/2022/07/18/t-magazine/candy-sweet-fruit.html",
+            "uri": "nyt://article/1f4455dc-fe47-529f-b5d9-8fc63afa63d2",
+            "byline": "By Alex Beggs",
+            "item_type": "Article",
+            "updated_date": "2022-07-18T14:55:28-04:00",
+            "created_date": "2022-07-18T10:24:25-04:00",
+            "published_date": "2022-07-18T10:24:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Fruit",
+                "Strawberries",
+                "Agriculture and Farming",
+                "Supermarkets and Grocery Stores",
+                "Genetic Engineering"
+            ],
+            "org_facet": [
+                "Driscoll's Berries Inc",
+                "Whole Foods Market Inc",
+                "Baldor Specialty Foods"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/t-magazine/18tmag-sweet-fruit-slide-5INL-copy/18tmag-sweet-fruit-slide-5INL-copy-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Clockwise from top right: Grapery cotton candy grapes and moon drop grapes; Del Monte pink glow pineapple; Driscoll’s berry big strawberry and rosé berries; Pink-a-boo pineberries; Driscoll’s sweetest batch blueberries; and Dapple Dandy pluots.",
+                    "copyright": "Photographed by David Chow. Styled by Leilin Lopez"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/t-magazine/18tmag-sweet-fruit-slide-5INL-copy/18tmag-sweet-fruit-slide-5INL-copy-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Clockwise from top right: Grapery cotton candy grapes and moon drop grapes; Del Monte pink glow pineapple; Driscoll’s berry big strawberry and rosé berries; Pink-a-boo pineberries; Driscoll’s sweetest batch blueberries; and Dapple Dandy pluots.",
+                    "copyright": "Photographed by David Chow. Styled by Leilin Lopez"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/18/t-magazine/18tmag-sweet-fruit-slide-5INL-copy/18tmag-sweet-fruit-slide-5INL-copy-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Clockwise from top right: Grapery cotton candy grapes and moon drop grapes; Del Monte pink glow pineapple; Driscoll’s berry big strawberry and rosé berries; Pink-a-boo pineberries; Driscoll’s sweetest batch blueberries; and Dapple Dandy pluots.",
+                    "copyright": "Photographed by David Chow. Styled by Leilin Lopez"
+                }
+            ],
+            "short_url": "https://nyti.ms/3OkVhVM"
+        }
+    ]
+}
