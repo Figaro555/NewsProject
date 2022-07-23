@@ -1,15 +1,12 @@
 from loader_factory import LoaderFactory
 from data_savers.s3_saver import S3Saver
-from datetime import date
 
 
 def lambda_handler(event, context):
-    type = event["type"]
-    loader = LoaderFactory.create_loader(type)
+    loader_type = event["type"]
+    loader = LoaderFactory.create_loader(loader_type)
     data = loader.load_data()
-    file_path = "NewsProject/Data Extractor/Output/" + str(date.today()) + "/" + type + ".json"
-    bucket = "mbucket111111"
-    saver = S3Saver(bucket)
-    saver.save_data(data, file_path)
-    return {"path": file_path}
+    saver = S3Saver(loader_type)
+    saver.save_data(data)
+    return {"path": saver.file_path}
 
