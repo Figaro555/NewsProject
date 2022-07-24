@@ -1,4 +1,3 @@
-import requests
 from bs4 import BeautifulSoup
 
 from data_loaders.news_loader_without_api import NewsLoaderWithoutAPI
@@ -9,7 +8,7 @@ class GuardianLoader(NewsLoaderWithoutAPI):
     main_page_link = "https://www.theguardian.com/international"
 
     def get_article_links(self, link):
-        response = requests.get(link)
+        response = self.do_get_request(link)
         html = BeautifulSoup(response.content, 'html.parser')
         items = html.findAll("div", class_="fc-item__content")
 
@@ -17,7 +16,7 @@ class GuardianLoader(NewsLoaderWithoutAPI):
 
     def get_article_data(self, article_link):
 
-        response = requests.get(article_link)
+        response = self.do_get_request(article_link)
         article = BeautifulSoup(response.content, 'html.parser')
 
         title_with_author = article.find("meta", attrs={"property": "og:title"})["content"].split("|")
@@ -54,6 +53,6 @@ class GuardianLoader(NewsLoaderWithoutAPI):
 
         if link.find("gallery") >= 0:
             text_tags_arr = article.findAll("div", class_="gallery__caption")
-            return "\n".join([i.text for i in text_tags_arr])
+            return "\n".join([i.text for i in text_tags_arr]).strip()
 
         return article.find("div", id="maincontent").text

@@ -1,4 +1,3 @@
-import requests
 from bs4 import BeautifulSoup
 
 from data_loaders.news_loader_without_api import NewsLoaderWithoutAPI
@@ -9,13 +8,13 @@ class DelfiLoader(NewsLoaderWithoutAPI):
     main_page_link = "https://www.delfi.lt"
 
     def get_article_links(self, link):
-        response = requests.get(link)
+        response = self.do_get_request(link)
         html = BeautifulSoup(response.content, 'html.parser')
         links = html.findAll("h3", class_="headline-title")
         return [i.find("a")["href"] for i in links if i.find("a")["href"].startswith("https://www.delfi.lt")]
 
     def get_article_data(self, article_link):
-        response = requests.get(article_link)
+        response = self.do_get_request(article_link)
         article = BeautifulSoup(response.content, 'html.parser')
 
         try:

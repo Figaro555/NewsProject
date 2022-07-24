@@ -5,19 +5,19 @@ from unittest.mock import patch, MagicMock
 
 from bs4 import BeautifulSoup
 
+import data_loaders
 from data_loaders.delfi_loader import DelfiLoader
 from test_data.delfi.get_links_results import links
 
 
 class DelfiTest(unittest.TestCase):
-    files_path = "test_data/delfi/"
+    files_path = "test/test_data/delfi/"
 
     @classmethod
     def setUpClass(cls):
         cls.loader = DelfiLoader()
 
-
-    @patch("data_loaders.delfi_loader.requests")
+    @patch.object(data_loaders.delfi_loader.DelfiLoader, "do_get_request")
     def test_get_links(self, requests_mock):
 
         with open(self.files_path + "main_page.html", "r", encoding="utf-8") as file:
@@ -25,21 +25,20 @@ class DelfiTest(unittest.TestCase):
 
         request_content_mock = MagicMock()
         request_content_mock.content = page
-        requests_mock.get.return_value = request_content_mock
+        requests_mock.return_value = request_content_mock
 
         result = self.loader.get_article_links("")
 
         self.assertListEqual(result, links)
 
-    @patch("data_loaders.delfi_loader.requests")
+    @patch.object(data_loaders.delfi_loader.DelfiLoader, "do_get_request")
     def test_get_article_data(self, requests_mock):
         result = []
 
         for page in self.files_generator():
-
             request_content_mock = MagicMock()
             request_content_mock.content = page
-            requests_mock.get.return_value = request_content_mock
+            requests_mock.return_value = request_content_mock
 
             res = self.loader.get_article_data("")
             result.append(res)
@@ -69,7 +68,6 @@ class DelfiTest(unittest.TestCase):
         result = []
 
         for page in self.files_generator():
-
             article = BeautifulSoup(page, 'html.parser')
             result.append(self.loader.get_author(article))
 

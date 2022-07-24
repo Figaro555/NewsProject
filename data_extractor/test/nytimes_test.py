@@ -5,7 +5,7 @@ from data_loaders.nyt_loader import NYTLoader
 
 
 class NYTimesTest(unittest.TestCase):
-    files_path = "test_data/nytimes/"
+    files_path = "test/test_data/nytimes/"
 
     def test_get_article_data(self):
         loader = NYTLoader()

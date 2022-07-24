@@ -1,39 +1,42 @@
 import json
 import os
 import unittest
-from bs4 import BeautifulSoup
 from unittest.mock import patch, MagicMock
+
+from bs4 import BeautifulSoup
+
+import data_loaders
 from data_loaders.guardian_loader import GuardianLoader
 from test_data.guardian.get_links_results import links
 
 
 class GuardianTest(unittest.TestCase):
-    files_path = "test_data/guardian/"
+    files_path = "test/test_data/guardian/"
 
     @classmethod
     def setUpClass(cls):
         cls.loader = GuardianLoader()
 
-    @patch("data_loaders.guardian_loader.requests")
+    @patch.object(data_loaders.guardian_loader.GuardianLoader, "do_get_request")
     def test_get_links(self, requests_mock):
         with open(self.files_path + "main_page.html", "r", encoding="utf-8") as file:
             page = file.read()
 
         request_content_mock = MagicMock()
         request_content_mock.content = page
-        requests_mock.get.return_value = request_content_mock
+        requests_mock.return_value = request_content_mock
         result = self.loader.get_article_links("")
 
         self.assertListEqual(result, links)
 
-    @patch("data_loaders.guardian_loader.requests")
+    @patch.object(data_loaders.guardian_loader.GuardianLoader, "do_get_request")
     def test_get_article_data(self, requests_mock):
         result = []
 
         for page in self.files_generator():
             request_content_mock = MagicMock()
             request_content_mock.content = page
-            requests_mock.get.return_value = request_content_mock
+            requests_mock.return_value = request_content_mock
 
             article = BeautifulSoup(page, 'html.parser')
             link = self.get_link(article)
@@ -76,7 +79,7 @@ class GuardianTest(unittest.TestCase):
 
     def files_generator(self):
         file_count = len(os.listdir(self.files_path + "/pages"))
-        for i in range(1, file_count):
+        for i in range(1, file_count + 1):
             with open(self.files_path + "pages/page" + str(i) + ".html", "r", encoding="utf-8") as file:
                 yield file.read()
 

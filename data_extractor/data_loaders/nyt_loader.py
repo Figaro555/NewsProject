@@ -1,4 +1,3 @@
-import requests
 import boto3
 
 from data_loaders.news_loader import NewsLoader
@@ -12,7 +11,7 @@ class NYTLoader(NewsLoader):
         response = s3.get_object(Bucket="mbucket111111", Key='NewsProject/Data Extractor/Config/NYTimesConfig.txt')
         nyt_key = response['Body'].read().decode('UTF-8')
         url = "https://api.nytimes.com/svc/topstories/v2/home.json?api-key=" + nyt_key
-        response = requests.get(url)
+        response = self.do_get_request(url)
         content = response.json()
 
         return [self.get_article_data(article) for article in content["results"]]
@@ -22,4 +21,4 @@ class NYTLoader(NewsLoader):
                 "title": article["title"],
                 "author": article["byline"][3:],
                 "date": article["created_date"],
-                "article": article["abstract"]}
+                "text": article["abstract"]}
