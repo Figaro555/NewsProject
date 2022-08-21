@@ -32,7 +32,7 @@ def main():
 
     df = df_transformer.aggreagate(table, aggregations)
 
-
+    bucket.upload_df(df)
 
 
 if __name__ == '__main__':

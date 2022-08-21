@@ -2,6 +2,7 @@ import json
 from datetime import date
 
 import boto3
+from pyspark.sql import DataFrame
 
 
 class S3Bucket:
@@ -21,3 +22,7 @@ class S3Bucket:
         data = response['Body'].read().decode('UTF-8')
         return json.loads(data)
 
+    def upload_df(self, df: DataFrame):
+        data = df.toJSON().collect()
+        self.bucket.put_object(Body=bytes("\n".join(data), "utf-8"), Bucket=self.bucket_name,
+                               Key="NewsProject/DataTransformer/Data/date=" + self.current_date + "/data.json")
