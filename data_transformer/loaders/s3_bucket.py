@@ -2,7 +2,6 @@ import json
 from datetime import date
 
 import boto3
-from pyspark.sql import DataFrame
 
 
 class S3Bucket:
