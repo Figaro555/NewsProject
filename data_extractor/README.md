@@ -1,6 +1,6 @@
-#Data Extractor
+# Data Extractor
 ___
-##Description
+## Description
 This part of project gets data from different news web-sites
 
 ## Testing
